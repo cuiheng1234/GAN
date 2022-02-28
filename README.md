@@ -10,5 +10,5 @@ gan基础代码
 
 ### 开始训练：
 ```shell
-python main.py
+python gan.py
 ```
